@@ -1,0 +1,38 @@
+// @import url('https://fonts.googleapis.com/css2?family=Unbounded:wght@200..900&display=swap');
+// // font-family: "Unbounded", sans-serif;
+
+
+// @font-face {
+//     font-family: "compact";
+//     src: url("../fonts/SFCompactDisplay-Regular.otf") format("opentype");
+//     font-weight: 400;
+// }
+
+
+@font-face {
+  font-family: 'NewBlackTypeface-Regular';
+  src: url('../fonts/NewBlackTypeface-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'NewBlackTypeface-Medium';
+  src: url('../fonts/NewBlackTypeface-Medium.otf') format('opentype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Agdasima-Bold';
+  src: url('../fonts/Agdasima-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'MYRIADPRO-REGULAR';
+  src: url('../fonts/MYRIADPRO-REGULAR.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+}
